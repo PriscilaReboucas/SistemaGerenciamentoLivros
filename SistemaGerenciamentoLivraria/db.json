@@ -1,0 +1,16 @@
+{
+  "livro": [
+    {
+      "editora": {
+        "nome": "Aurea"
+      },
+      "autor": {
+        "nome": "João"
+      },
+      "nome": "Caçador de Pipas 2",
+      "anoLancamento": 2000,
+      "codigoLivro": 1,
+      "id": 1
+    }
+  ]
+}

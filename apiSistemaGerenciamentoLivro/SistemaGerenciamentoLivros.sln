@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGerenciamentoLivros", "SistemaGerenciamentoLivros\SistemaGerenciamentoLivros.csproj", "{9236B561-B7CF-4320-A010-525BDD71E3F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaGerenciamentoLivros.Tests", "SistemaGerenciamentoLivros.Tests\SistemaGerenciamentoLivros.Tests.csproj", "{EDCB321D-3B4C-4E76-B82F-E0B8365F350B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9236B561-B7CF-4320-A010-525BDD71E3F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9236B561-B7CF-4320-A010-525BDD71E3F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9236B561-B7CF-4320-A010-525BDD71E3F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9236B561-B7CF-4320-A010-525BDD71E3F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDCB321D-3B4C-4E76-B82F-E0B8365F350B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDCB321D-3B4C-4E76-B82F-E0B8365F350B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDCB321D-3B4C-4E76-B82F-E0B8365F350B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDCB321D-3B4C-4E76-B82F-E0B8365F350B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CB5CAC52-51FB-49C4-9837-BC800F3461F5}
+	EndGlobalSection
+EndGlobal
